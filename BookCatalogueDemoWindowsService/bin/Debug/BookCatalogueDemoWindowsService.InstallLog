@@ -1,0 +1,23 @@
+﻿Installing assembly 'C:\VenkatRaji\Raji\DOTNET\Infosys\WCFDemo\BookCatalogueDemo\BookCatalogueDemoWindowsService\bin\Debug\BookCatalogueDemoWindowsService.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\VenkatRaji\Raji\DOTNET\Infosys\WCFDemo\BookCatalogueDemo\BookCatalogueDemoWindowsService\bin\Debug\BookCatalogueDemoWindowsService.InstallLog
+   assemblypath = C:\VenkatRaji\Raji\DOTNET\Infosys\WCFDemo\BookCatalogueDemo\BookCatalogueDemoWindowsService\bin\Debug\BookCatalogueDemoWindowsService.exe
+   logtoconsole = 
+Installing service BookCatalogueWindowsService...
+Service BookCatalogueWindowsService has been successfully installed.
+Creating EventLog source BookCatalogueWindowsService in log Application...
+Committing assembly 'C:\VenkatRaji\Raji\DOTNET\Infosys\WCFDemo\BookCatalogueDemo\BookCatalogueDemoWindowsService\bin\Debug\BookCatalogueDemoWindowsService.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\VenkatRaji\Raji\DOTNET\Infosys\WCFDemo\BookCatalogueDemo\BookCatalogueDemoWindowsService\bin\Debug\BookCatalogueDemoWindowsService.InstallLog
+   assemblypath = C:\VenkatRaji\Raji\DOTNET\Infosys\WCFDemo\BookCatalogueDemo\BookCatalogueDemoWindowsService\bin\Debug\BookCatalogueDemoWindowsService.exe
+   logtoconsole = 
+Uninstalling assembly 'C:\VenkatRaji\Raji\DOTNET\Infosys\WCFDemo\BookCatalogueDemo\BookCatalogueDemoWindowsService\bin\Debug\BookCatalogueDemoWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\VenkatRaji\Raji\DOTNET\Infosys\WCFDemo\BookCatalogueDemo\BookCatalogueDemoWindowsService\bin\Debug\BookCatalogueDemoWindowsService.InstallLog
+   assemblypath = C:\VenkatRaji\Raji\DOTNET\Infosys\WCFDemo\BookCatalogueDemo\BookCatalogueDemoWindowsService\bin\Debug\BookCatalogueDemoWindowsService.exe
+Removing EventLog source BookCatalogueWindowsService.
+Service BookCatalogueWindowsService is being removed from the system...
+Service BookCatalogueWindowsService was successfully removed from the system.

@@ -1,0 +1,36 @@
+C:\VenkatRaji\Raji\DOT NET\Infosys\WCF Demo\BookCatalogueDemo\BookCatalogueDemo\bin\Debug\BookCatalogueDemo.dll
+C:\VenkatRaji\Raji\DOT NET\Infosys\WCF Demo\BookCatalogueDemo\BookCatalogueDemo\bin\Debug\BookCatalogueDemo.pdb
+C:\VenkatRaji\Raji\DOT NET\Infosys\WCF Demo\BookCatalogueDemo\BookCatalogueDemo\bin\Debug\BookCatalogue.DAL.dll
+C:\VenkatRaji\Raji\DOT NET\Infosys\WCF Demo\BookCatalogueDemo\BookCatalogueDemo\bin\Debug\BookCatalogue.DAL.pdb
+C:\VenkatRaji\Raji\DOT NET\Infosys\WCF Demo\BookCatalogueDemo\BookCatalogueDemo\obj\Debug\BookCatalogueDemo.csprojAssemblyReference.cache
+C:\VenkatRaji\Raji\DOT NET\Infosys\WCF Demo\BookCatalogueDemo\BookCatalogueDemo\obj\Debug\BookCatalogueDemo.csproj.CoreCompileInputs.cache
+C:\VenkatRaji\Raji\DOT NET\Infosys\WCF Demo\BookCatalogueDemo\BookCatalogueDemo\obj\Debug\BookCatalogueDemo.csproj.CopyComplete
+C:\VenkatRaji\Raji\DOT NET\Infosys\WCF Demo\BookCatalogueDemo\BookCatalogueDemo\obj\Debug\BookCatalogueDemo.dll
+C:\VenkatRaji\Raji\DOT NET\Infosys\WCF Demo\BookCatalogueDemo\BookCatalogueDemo\obj\Debug\BookCatalogueDemo.pdb
+C:\VenkatRaji\Raji\DOTNET\Infosys\WCF Demo\BookCatalogueDemo\BookCatalogueDemo\bin\Debug\BookCatalogueDemo.dll
+C:\VenkatRaji\Raji\DOTNET\Infosys\WCF Demo\BookCatalogueDemo\BookCatalogueDemo\bin\Debug\BookCatalogueDemo.pdb
+C:\VenkatRaji\Raji\DOTNET\Infosys\WCF Demo\BookCatalogueDemo\BookCatalogueDemo\bin\Debug\BookCatalogue.DAL.dll
+C:\VenkatRaji\Raji\DOTNET\Infosys\WCF Demo\BookCatalogueDemo\BookCatalogueDemo\bin\Debug\BookCatalogue.DAL.pdb
+C:\VenkatRaji\Raji\DOTNET\Infosys\WCF Demo\BookCatalogueDemo\BookCatalogueDemo\obj\Debug\BookCatalogueDemo.csprojAssemblyReference.cache
+C:\VenkatRaji\Raji\DOTNET\Infosys\WCF Demo\BookCatalogueDemo\BookCatalogueDemo\obj\Debug\BookCatalogueDemo.csproj.CoreCompileInputs.cache
+C:\VenkatRaji\Raji\DOTNET\Infosys\WCF Demo\BookCatalogueDemo\BookCatalogueDemo\obj\Debug\BookCatalogueDemo.csproj.CopyComplete
+C:\VenkatRaji\Raji\DOTNET\Infosys\WCF Demo\BookCatalogueDemo\BookCatalogueDemo\obj\Debug\BookCatalogueDemo.dll
+C:\VenkatRaji\Raji\DOTNET\Infosys\WCF Demo\BookCatalogueDemo\BookCatalogueDemo\obj\Debug\BookCatalogueDemo.pdb
+C:\VenkatRaji\Raji\DOTNET\Infosys\WCFDemo\BookCatalogueDemo\BookCatalogueDemo\bin\Debug\BookCatalogueDemo.dll
+C:\VenkatRaji\Raji\DOTNET\Infosys\WCFDemo\BookCatalogueDemo\BookCatalogueDemo\bin\Debug\BookCatalogueDemo.pdb
+C:\VenkatRaji\Raji\DOTNET\Infosys\WCFDemo\BookCatalogueDemo\BookCatalogueDemo\bin\Debug\BookCatalogue.DAL.dll
+C:\VenkatRaji\Raji\DOTNET\Infosys\WCFDemo\BookCatalogueDemo\BookCatalogueDemo\bin\Debug\BookCatalogue.DAL.pdb
+C:\VenkatRaji\Raji\DOTNET\Infosys\WCFDemo\BookCatalogueDemo\BookCatalogueDemo\obj\Debug\BookCatalogueDemo.csprojAssemblyReference.cache
+C:\VenkatRaji\Raji\DOTNET\Infosys\WCFDemo\BookCatalogueDemo\BookCatalogueDemo\obj\Debug\BookCatalogueDemo.csproj.CoreCompileInputs.cache
+C:\VenkatRaji\Raji\DOTNET\Infosys\WCFDemo\BookCatalogueDemo\BookCatalogueDemo\obj\Debug\BookCatalogueDemo.csproj.CopyComplete
+C:\VenkatRaji\Raji\DOTNET\Infosys\WCFDemo\BookCatalogueDemo\BookCatalogueDemo\obj\Debug\BookCatalogueDemo.dll
+C:\VenkatRaji\Raji\DOTNET\Infosys\WCFDemo\BookCatalogueDemo\BookCatalogueDemo\obj\Debug\BookCatalogueDemo.pdb
+D:\Raji\Infosys\WCFDemo\BookCatalogueDemo\BookCatalogueDemo\bin\Debug\BookCatalogueDemo.dll
+D:\Raji\Infosys\WCFDemo\BookCatalogueDemo\BookCatalogueDemo\bin\Debug\BookCatalogueDemo.pdb
+D:\Raji\Infosys\WCFDemo\BookCatalogueDemo\BookCatalogueDemo\bin\Debug\BookCatalogue.DAL.dll
+D:\Raji\Infosys\WCFDemo\BookCatalogueDemo\BookCatalogueDemo\bin\Debug\BookCatalogue.DAL.pdb
+D:\Raji\Infosys\WCFDemo\BookCatalogueDemo\BookCatalogueDemo\obj\Debug\BookCatalogueDemo.csproj.AssemblyReference.cache
+D:\Raji\Infosys\WCFDemo\BookCatalogueDemo\BookCatalogueDemo\obj\Debug\BookCatalogueDemo.csproj.CoreCompileInputs.cache
+D:\Raji\Infosys\WCFDemo\BookCatalogueDemo\BookCatalogueDemo\obj\Debug\BookCatalogueDemo.csproj.CopyComplete
+D:\Raji\Infosys\WCFDemo\BookCatalogueDemo\BookCatalogueDemo\obj\Debug\BookCatalogueDemo.dll
+D:\Raji\Infosys\WCFDemo\BookCatalogueDemo\BookCatalogueDemo\obj\Debug\BookCatalogueDemo.pdb

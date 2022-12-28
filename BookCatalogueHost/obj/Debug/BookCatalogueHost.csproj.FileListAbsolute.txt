@@ -1,0 +1,49 @@
+C:\VenkatRaji\Raji\DOT NET\Infosys\WCF Demo\BookCatalogueDemo\BookCatalogueHost\bin\Debug\BookCatalogueHost.exe.config
+C:\VenkatRaji\Raji\DOT NET\Infosys\WCF Demo\BookCatalogueDemo\BookCatalogueHost\bin\Debug\BookCatalogueHost.exe
+C:\VenkatRaji\Raji\DOT NET\Infosys\WCF Demo\BookCatalogueDemo\BookCatalogueHost\bin\Debug\BookCatalogueHost.pdb
+C:\VenkatRaji\Raji\DOT NET\Infosys\WCF Demo\BookCatalogueDemo\BookCatalogueHost\bin\Debug\BookCatalogueDemo.dll
+C:\VenkatRaji\Raji\DOT NET\Infosys\WCF Demo\BookCatalogueDemo\BookCatalogueHost\bin\Debug\BookCatalogue.DAL.dll
+C:\VenkatRaji\Raji\DOT NET\Infosys\WCF Demo\BookCatalogueDemo\BookCatalogueHost\bin\Debug\BookCatalogueDemo.pdb
+C:\VenkatRaji\Raji\DOT NET\Infosys\WCF Demo\BookCatalogueDemo\BookCatalogueHost\bin\Debug\BookCatalogue.DAL.pdb
+C:\VenkatRaji\Raji\DOT NET\Infosys\WCF Demo\BookCatalogueDemo\BookCatalogueHost\obj\Debug\BookCatalogueHost.csprojAssemblyReference.cache
+C:\VenkatRaji\Raji\DOT NET\Infosys\WCF Demo\BookCatalogueDemo\BookCatalogueHost\obj\Debug\BookCatalogueHost.csproj.CoreCompileInputs.cache
+C:\VenkatRaji\Raji\DOT NET\Infosys\WCF Demo\BookCatalogueDemo\BookCatalogueHost\obj\Debug\BookCatalogueHost.csproj.CopyComplete
+C:\VenkatRaji\Raji\DOT NET\Infosys\WCF Demo\BookCatalogueDemo\BookCatalogueHost\obj\Debug\BookCatalogueHost.exe
+C:\VenkatRaji\Raji\DOT NET\Infosys\WCF Demo\BookCatalogueDemo\BookCatalogueHost\obj\Debug\BookCatalogueHost.pdb
+C:\VenkatRaji\Raji\DOTNET\Infosys\WCF Demo\BookCatalogueDemo\BookCatalogueHost\bin\Debug\BookCatalogueHost.exe.config
+C:\VenkatRaji\Raji\DOTNET\Infosys\WCF Demo\BookCatalogueDemo\BookCatalogueHost\bin\Debug\BookCatalogueHost.exe
+C:\VenkatRaji\Raji\DOTNET\Infosys\WCF Demo\BookCatalogueDemo\BookCatalogueHost\bin\Debug\BookCatalogueHost.pdb
+C:\VenkatRaji\Raji\DOTNET\Infosys\WCF Demo\BookCatalogueDemo\BookCatalogueHost\bin\Debug\BookCatalogueDemo.dll
+C:\VenkatRaji\Raji\DOTNET\Infosys\WCF Demo\BookCatalogueDemo\BookCatalogueHost\bin\Debug\BookCatalogue.DAL.dll
+C:\VenkatRaji\Raji\DOTNET\Infosys\WCF Demo\BookCatalogueDemo\BookCatalogueHost\bin\Debug\BookCatalogueDemo.pdb
+C:\VenkatRaji\Raji\DOTNET\Infosys\WCF Demo\BookCatalogueDemo\BookCatalogueHost\bin\Debug\BookCatalogue.DAL.pdb
+C:\VenkatRaji\Raji\DOTNET\Infosys\WCF Demo\BookCatalogueDemo\BookCatalogueHost\obj\Debug\BookCatalogueHost.csprojAssemblyReference.cache
+C:\VenkatRaji\Raji\DOTNET\Infosys\WCF Demo\BookCatalogueDemo\BookCatalogueHost\obj\Debug\BookCatalogueHost.csproj.CoreCompileInputs.cache
+C:\VenkatRaji\Raji\DOTNET\Infosys\WCF Demo\BookCatalogueDemo\BookCatalogueHost\obj\Debug\BookCatalogueHost.csproj.CopyComplete
+C:\VenkatRaji\Raji\DOTNET\Infosys\WCF Demo\BookCatalogueDemo\BookCatalogueHost\obj\Debug\BookCatalogueHost.exe
+C:\VenkatRaji\Raji\DOTNET\Infosys\WCF Demo\BookCatalogueDemo\BookCatalogueHost\obj\Debug\BookCatalogueHost.pdb
+C:\VenkatRaji\Raji\DOTNET\Infosys\WCFDemo\BookCatalogueDemo\BookCatalogueHost\bin\Debug\BookCatalogueHost.exe.config
+C:\VenkatRaji\Raji\DOTNET\Infosys\WCFDemo\BookCatalogueDemo\BookCatalogueHost\bin\Debug\BookCatalogueHost.exe
+C:\VenkatRaji\Raji\DOTNET\Infosys\WCFDemo\BookCatalogueDemo\BookCatalogueHost\bin\Debug\BookCatalogueHost.pdb
+C:\VenkatRaji\Raji\DOTNET\Infosys\WCFDemo\BookCatalogueDemo\BookCatalogueHost\bin\Debug\BookCatalogueDemo.dll
+C:\VenkatRaji\Raji\DOTNET\Infosys\WCFDemo\BookCatalogueDemo\BookCatalogueHost\bin\Debug\BookCatalogue.DAL.dll
+C:\VenkatRaji\Raji\DOTNET\Infosys\WCFDemo\BookCatalogueDemo\BookCatalogueHost\bin\Debug\BookCatalogueDemo.pdb
+C:\VenkatRaji\Raji\DOTNET\Infosys\WCFDemo\BookCatalogueDemo\BookCatalogueHost\bin\Debug\BookCatalogue.DAL.pdb
+C:\VenkatRaji\Raji\DOTNET\Infosys\WCFDemo\BookCatalogueDemo\BookCatalogueHost\obj\Debug\BookCatalogueHost.csprojAssemblyReference.cache
+C:\VenkatRaji\Raji\DOTNET\Infosys\WCFDemo\BookCatalogueDemo\BookCatalogueHost\obj\Debug\BookCatalogueHost.csproj.CoreCompileInputs.cache
+C:\VenkatRaji\Raji\DOTNET\Infosys\WCFDemo\BookCatalogueDemo\BookCatalogueHost\obj\Debug\BookCatalogueHost.csproj.CopyComplete
+C:\VenkatRaji\Raji\DOTNET\Infosys\WCFDemo\BookCatalogueDemo\BookCatalogueHost\obj\Debug\BookCatalogueHost.exe
+C:\VenkatRaji\Raji\DOTNET\Infosys\WCFDemo\BookCatalogueDemo\BookCatalogueHost\obj\Debug\BookCatalogueHost.pdb
+D:\Raji\Infosys\WCFDemo\BookCatalogueDemo\BookCatalogueHost\bin\Debug\BookCatalogueHost.exe.config
+D:\Raji\Infosys\WCFDemo\BookCatalogueDemo\BookCatalogueHost\bin\Debug\BookCatalogueHost.exe
+D:\Raji\Infosys\WCFDemo\BookCatalogueDemo\BookCatalogueHost\bin\Debug\BookCatalogueHost.pdb
+D:\Raji\Infosys\WCFDemo\BookCatalogueDemo\BookCatalogueHost\bin\Debug\BookCatalogueDemo.dll
+D:\Raji\Infosys\WCFDemo\BookCatalogueDemo\BookCatalogueHost\bin\Debug\BookCatalogue.DAL.dll
+D:\Raji\Infosys\WCFDemo\BookCatalogueDemo\BookCatalogueHost\bin\Debug\BookCatalogueDemo.pdb
+D:\Raji\Infosys\WCFDemo\BookCatalogueDemo\BookCatalogueHost\bin\Debug\BookCatalogue.DAL.pdb
+D:\Raji\Infosys\WCFDemo\BookCatalogueDemo\BookCatalogueHost\obj\Debug\BookCatalogueHost.csproj.AssemblyReference.cache
+D:\Raji\Infosys\WCFDemo\BookCatalogueDemo\BookCatalogueHost\obj\Debug\BookCatalogueHost.csproj.SuggestedBindingRedirects.cache
+D:\Raji\Infosys\WCFDemo\BookCatalogueDemo\BookCatalogueHost\obj\Debug\BookCatalogueHost.csproj.CoreCompileInputs.cache
+D:\Raji\Infosys\WCFDemo\BookCatalogueDemo\BookCatalogueHost\obj\Debug\BookCatalogueHost.csproj.CopyComplete
+D:\Raji\Infosys\WCFDemo\BookCatalogueDemo\BookCatalogueHost\obj\Debug\BookCatalogueHost.exe
+D:\Raji\Infosys\WCFDemo\BookCatalogueDemo\BookCatalogueHost\obj\Debug\BookCatalogueHost.pdb
